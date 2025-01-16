@@ -2,7 +2,7 @@ const form = document.getElementById('form-atividade');
 const imgOk = '<img src="./images/arrow_11916728.png" alt="Imagem Ok" />';
 const nome = [];
 const numero = [];
-const notaMinima = parseFloat(prompt("Digite o nome do contato"));
+const notaMinima = parseFloat;
 
 let linhas = '';
 
